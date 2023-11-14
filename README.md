@@ -1,2 +1,9 @@
-# TestGithub
-Test
+# 문제은행
+문제은행의 문제를 풀이한 코드입니다.
+
+### 파일명 생성 규칙
+> (레벨)-(문제번호)-(문제명).py
+> 
+(예시) Lv1_1_Box game.py
+
+- 문제 출처 : 프로그래머스 (https://programmers.co.kr/)
